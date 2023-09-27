@@ -9,6 +9,7 @@ Using GTK-3, create a small system tray application that shows you if it will ra
 ## Solution
 
 The Gtk-3 application was implemented with calling two api endpoints that fetches current weather and cryptocurrency data. To get started with app:
+
 <code>git clone https://github.com/KoolTeck/Trayish.git</code>
 
 <code>cd Trayish</code>
