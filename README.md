@@ -20,7 +20,7 @@ The Gtk-3 application was implemented with calling two api endpoints that fetche
 
 - create a 'config.ini' file at the root of the project to access the Api key used in the app
 
-- grab the keys here [api keys](https://docs.google.com/document/d/1kcnbLQgzGm_XzMoeufLYEgX_Fj6ZJdfQ7YRTT_zg2wc/edit?usp=sharing)
+- grab the keys here [api_keys](https://docs.google.com/document/d/1kcnbLQgzGm_XzMoeufLYEgX_Fj6ZJdfQ7YRTT_zg2wc/edit?usp=sharing)
 
 - run the tray.py file
 
