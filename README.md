@@ -10,10 +10,20 @@ Using GTK-3, create a small system tray application that shows you if it will ra
 
 The Gtk-3 application was implemented with calling two api endpoints that fetches current weather and cryptocurrency data. To get started with app:
 
-<code>git clone https://github.com/KoolTeck/Trayish.git</code>
+- Get the installer for window version here [trayish](https://drive.google.com/file/d/1SfKkv3K9Xg5f2YbII-IeOKjOgPs9Mykw/view?usp=drive_link) or :
 
-<code>cd Trayish</code>
+- clone the repo
 
-Then you can run the installer for your version of sysyem or aleternatively:
+- <code>git clone https://github.com/KoolTeck/Trayish.git</code>
 
-- run the system_tray.py file
+- <code>cd Trayish</code>
+
+- create a 'config.ini' file at the root of the project to access the Api key used in the app
+
+- grab the keys here [api keys] (https://docs.google.com/document/d/1kcnbLQgzGm_XzMoeufLYEgX_Fj6ZJdfQ7YRTT_zg2wc/edit?usp=sharing)
+
+- run the tray.py file
+
+The app should load to the system tray
+
+Note: I was only able to package the project with window installer because I developed it using window system, time wont permit me to port the app to other platform hence the need to submit.
